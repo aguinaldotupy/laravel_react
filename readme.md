@@ -2,6 +2,13 @@
 
 - A ideia deste projeto é reduzir o tempo de implementação inicial, dando os parâmetros base.
 
+## Instalação
+
+- git@github.com:aguinaldotupy/laravel_react.git nomedeseuprojeto
+- composer install
+- npm install && npm run production
+- Crie o arquivo .env
+
 ## Dependencias
 
 - fortawesome/fontawesome-free
